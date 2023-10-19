@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi, I'm Aditya! <br/><a href="https://github.com/joshmadakor1">Passionate about Data</a>, <a href="https://www.linkedin.com/in/adityamaheshwari0106/">MS in Applied Data Analytics, Boston University</a></h1>
+<h1>Hi, I'm Aditya! <br/><a href="https://github.com/Adit0106">Passionate about Data</a>, <a href="https://www.linkedin.com/in/adityamaheshwari0106/">MS in Applied Data Analytics, Boston University</a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 <!--
