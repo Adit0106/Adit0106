@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h1>Hi, I'm Aditya! <br/><a href="https://github.com/Adit0106">Passionate about Data</a>, <a href="https://www.linkedin.com/in/adityamaheshwari0106/">MS in Applied Data Analytics, Boston University</a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
+<li><a href="https://github.com/Adit0106/Categorization-of-Property-Type">Categorization of Property Type</a></li>
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
