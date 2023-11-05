@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <h2>👨‍💻 Data Science Projects:</h2>
 <li><a href="https://github.com/Adit0106/Categorization-of-Property-Type">Categorization of Property Type</a></li>
+<li><a href="https://github.com/Adit0106/Insurance-Premium-Analysis">Insurance Premium Analysis</a></li>
+<li><a href="https://github.com/Adit0106/URL-Classification-System">URL Classification System</a></li>
+<li><a href="https://github.com/Adit0106/Greyatom_Capstone_project-MFCS">Capstone Project - Mahindra First Choice Services</a></li>
+<li><a href="https://github.com/Adit0106/Face-Mask-Detection-System">Face Mask Detection System</a></li>
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
